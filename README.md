@@ -1,14 +1,20 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=2F81F7&center=true&vCenter=true&width=600&lines=👋+Hey,+I'm+Avy;Cloud+%26+DevOps+Engineer;Exploring+LLMOps+%26+Kubernetes+Security;I+Build+Scalable+%26+Reliable+Infra" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=2F81F7&center=true&vCenter=true&width=600&lines=👋+Hey,+I'm+Avy;Cloud+%26+DevOps+Engineer;LLMOps+%7C+Kubernetes+Security;Built+Infra+as+the+Sole+DevOps+Engineer+in+Startups" />
 </p>
 
 ---
 
 ## 🌟 About Me  
-🔹 Cloud & DevOps Engineer (2x RedHat Certified)  
-🔹 Currently exploring **LLMOps** + **Kubernetes Security**  
-🔹 Passionate about making AI infra **scalable, secure, and production-ready**  
+I’m a **Cloud & DevOps Engineer** who has worked in **fast-paced startups as the sole DevOps engineer** — owning everything from CI/CD pipelines to Kubernetes clusters to cost optimization.  
+
+That experience taught me how to:  
+- Ship fast while keeping infra stable  
+- Balance cost vs scalability in lean teams  
+- Experiment with **LLMOps** and bring AI systems to production  
+- Implement **Kubernetes security** practices that matter in real-world environments  
+
+Right now, I’m exploring **LLMOps** and **K8s Security**, building projects to push my learnings into practice.  
 
 ---
 
@@ -54,4 +60,4 @@
 
 ---
 
-✨ *“Building scalable infra for AI & modern systems, one deployment at a time.”*  
+✨ *“Startups taught me to build infra that just works — secure, scalable, and cost-efficient — without overcomplicating things.”*  
