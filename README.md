@@ -45,19 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avy1013&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avy1013&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avy1013&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF&hide_border=true" />
-</p>
-
----
-
 ## 🌍 Let’s Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/Vaibhav-Gupta-avy1013/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
